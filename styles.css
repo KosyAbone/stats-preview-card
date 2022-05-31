@@ -66,6 +66,7 @@ body {
   }
   #section2  p{
     color: var(--slightly-white);
+    padding: 0 1rem;
     font-size: 0.8rem;
     line-height: 1rem;
   }
